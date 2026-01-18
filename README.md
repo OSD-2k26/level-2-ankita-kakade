@@ -2,7 +2,7 @@
 
 Two paths split from the same root.
 
-One bends to the **left**.  
+One bends to the **left**  
 One bends to the **right**.
 
 Both must exist, or the road collapses.
